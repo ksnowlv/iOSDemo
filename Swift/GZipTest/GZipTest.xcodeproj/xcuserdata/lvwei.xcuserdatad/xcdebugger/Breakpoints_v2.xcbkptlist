@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "020EE566-538B-4417-B1C1-039A12C0AE9C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "313E66D9-9635-4D42-A615-00D65F169FCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "313E66D9-9635-4D42-A615-00D65F169FCB - d045a07a836f929b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+               <Location
+                  uuid = "313E66D9-9635-4D42-A615-00D65F169FCB - d045a07a836f9325"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58FBE768-A51A-4DFB-B373-03F1708DAFC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/NSData+GZip.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "gzipCompressData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2D28F1D-89D9-4C5C-AA99-E4B23EF88628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/NSData+GZip.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "gzipCompressData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2D28F1D-89D9-4C5C-AA99-E4B23EF88628 - 8b015ff6095dce76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSData.gzipCompressData() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C2D28F1D-89D9-4C5C-AA99-E4B23EF88628 - 8b015ff6095dcfa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSData.gzipCompressData() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B1180FB-739B-42C1-BF5E-D6BB784B0A36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/NSData+GZip.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "gzipDataUncompress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B1180FB-739B-42C1-BF5E-D6BB784B0A36 - 4522502af8c36ff6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSData.gzipDataUncompress() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "9B1180FB-739B-42C1-BF5E-D6BB784B0A36 - 14fe5ef2e58f9a8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.UnsafeRawBufferPointer) -&gt; () in __C.NSData.gzipDataUncompress() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB7C216A-3C51-44D2-8071-BFE18A5BFA9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/NSData+GZip.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "gzipCompressData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB7C216A-3C51-44D2-8071-BFE18A5BFA9D - 8b015ff6095dca92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSData.gzipCompressData() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1752">
+               </Location>
+               <Location
+                  uuid = "EB7C216A-3C51-44D2-8071-BFE18A5BFA9D - 8b015ff6095dca92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSData.gzipCompressData() -&gt; Swift.Optional&lt;__C.NSData&gt;"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/NSData+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7295460B-B027-4DDD-AE7C-91D303A60802"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/Data+GZip.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "gzipCompress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7295460B-B027-4DDD-AE7C-91D303A60802 - 8c8100ad727db4fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Foundation.Data.gzipCompress() -&gt; Foundation.Data"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/Data+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "7295460B-B027-4DDD-AE7C-91D303A60802 - e55a552f93c3b956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.UnsafeRawBufferPointer) -&gt; () in Foundation.Data.gzipCompress() -&gt; Foundation.Data"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/Data+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7295460B-B027-4DDD-AE7C-91D303A60802 - 8c8100ad727db51d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Foundation.Data.gzipCompress() -&gt; Foundation.Data"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/Data+GZip.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5513DFB-590C-4539-9B48-0EE73CB505F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "testDataCompression()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5513DFB-590C-4539-9B48-0EE73CB505F9 - c578fd769c698d17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1804">
+               </Location>
+               <Location
+                  uuid = "D5513DFB-590C-4539-9B48-0EE73CB505F9 - c578fd769c698d17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC266B92-49CA-45B9-872F-95DEB9B60A34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "testDataCompression()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC266B92-49CA-45B9-872F-95DEB9B60A34 - c578fd769c698c28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+               <Location
+                  uuid = "AC266B92-49CA-45B9-872F-95DEB9B60A34 - c578fd769c698c28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E605765-47D5-4862-A12C-D6DF3F9DDC72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "testDataCompression()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E605765-47D5-4862-A12C-D6DF3F9DDC72 - c578fd769c698d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "9E605765-47D5-4862-A12C-D6DF3F9DDC72 - c578fd769c698dac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B97322D2-77E8-4462-8022-DB91AED04AC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "testDataCompression()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B97322D2-77E8-4462-8022-DB91AED04AC1 - c578fd769c698afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2540">
+               </Location>
+               <Location
+                  uuid = "B97322D2-77E8-4462-8022-DB91AED04AC1 - c578fd769c698afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GZipTest.ViewController.testDataCompression() -&gt; ()"
+                  moduleName = "GZipTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvwei/Pictures/iOSDemo/Swift/GZipTest/GZipTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "804DE7B1-555A-4D78-87CC-ED8533F249EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "testDataCompression1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "130C0A26-58AB-481D-8242-CD90D9F2030C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "testDataCompression1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CB0B93F-6675-4D79-ACF3-F744EC40AEB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "testDataCompression1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27F204B4-8FA0-4470-BB35-DDF643BEBAA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "testDataCompression()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "549E7D40-2562-4C8A-B46E-AD88B6FF3778"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "test1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA4A149F-B7E7-4B67-A64A-B103BC301CB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "test1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E54E3FF2-6EC6-4409-A2F9-C673C49ADAE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "test1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D663E9F9-0646-4C7C-9F78-EDDA63226D84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "testDataCompression1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5E83548-C15C-4BF6-849C-EB965692D5A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GZipTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "testDataCompression1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
